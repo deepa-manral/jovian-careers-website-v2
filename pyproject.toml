@@ -9,6 +9,7 @@ packages = [{include = "repl_nix_jovian_carrers_website_1"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 flask = "^3.0.2"
+sqlalchemy = "^2.0.27"
 
 
 [build-system]
